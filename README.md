@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 - 🌐 **Web Development**: Created engaging frontend and backend solutions, including a **Simon Says game** using HTML, CSS, and JavaScript.
 - 🛠 **Current Projects**: Building a Learning Management System (LMS) with React and integrating AI courses.
 - 📍 **Route Optimization**: Successfully implemented route tracking for smart waste management using ESP32, GPS NEO-6, and OpenRouteService API.
-- 🎓 **Academic Performance**: CGPA 6.12 with consistent performance improvement.
+- 🎓 **Academic Performance**: CGPA 7.12 with consistent performance improvement.
 
 ---
 
@@ -23,8 +23,6 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-74&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prince-74&color=blue)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prince-74&theme=radical)
 
 
 ## 🏆 Achievements
