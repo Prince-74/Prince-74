@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prince-74&color=blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-74&layout=compact&theme=radical&hide=html,css&langs_count=3)
-
 
 
 ## 🏆 Achievements
@@ -61,7 +59,7 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 - **API Integration**: Twilio API, OpenRouteService API.
 - **Hardware Interfacing**: ESP32, GPS NEO-6, Ultrasonic Sensors.
 - **Problem Solving**: Competitive programming and algorithm design.
-- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,HTML,flutter&perline=3)](https://skillicons.dev)
 
 ---
 
