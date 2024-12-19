@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Prince-74&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Prince Goyal's GitHub Stats](https://img.shields.io/github/stars/Prince-74?style=for-the-badge)
+
 
 
 
