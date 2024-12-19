@@ -18,8 +18,6 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 ## 🚀 Stats Section
 
-![Prince Goyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince-74&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-74&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prince-74&color=blue)
