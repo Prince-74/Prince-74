@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 - Participated in **Brainwave Hackathon** at DTU, Delhi, creating an AI agent and virtual mouse within 30 hours.
 - Participated in **Impact Hackathon**, contributing to innovative solutions in technology.
-- Competed in **TCS CodeVita**, solving challenging problems with innovative solutions.
 
+  
 ---
 
 ## 📂 Featured Projects
