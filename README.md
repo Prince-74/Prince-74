@@ -24,11 +24,6 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prince-74&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prince-74&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
 
 
 ## 🏆 Achievements
