@@ -75,26 +75,11 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 ---
 
-## 📫 Connect With Me
-
-<div id="badges">
-  <a href="https://github.com/Prince-74">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/prince-goyal-130631266/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-   <a href="https://www.instagram.com/prince_goyal74/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
- 
-</div>
 📫 Connect With Me
 
 LinkedIn: Prince Goyal
 
 GitHub: Prince-74
----
 
 ### Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaboration opportunities.
 
