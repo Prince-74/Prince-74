@@ -18,43 +18,7 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 
 ## 🚀 Stats Section
 
-Here is a simple HTML code snippet to show some dynamic stats on your profile:
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profile Stats</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin: 20px;
-    }
-    .stats {
-      display: inline-block;
-      text-align: left;
-      margin: 20px;
-    }
-    .stats div {
-      margin: 10px 0;
-    }
-  </style>
-</head>
-<body>
-  <h1>Prince Goyal's Stats</h1>
-  <div class="stats">
-    <div><strong>Projects Completed:</strong> 15+</div>
-    <div><strong>Hackathons Participated:</strong> 3</div>
-    <div><strong>Programming Languages Known:</strong> 5</div>
-    <div><strong>Repositories:</strong> 20+</div>
-  </div>
-</body>
-</html>
-```
----
 
 ## 🏆 Achievements
 
