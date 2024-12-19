@@ -58,6 +58,7 @@ Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Com
 - **API Integration**: Twilio API, OpenRouteService API.
 - **Hardware Interfacing**: ESP32, GPS NEO-6, Ultrasonic Sensors.
 - **Problem Solving**: Competitive programming and algorithm design.
+- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ---
 
