@@ -1,6 +1,6 @@
 # Hi, I'm Prince Goyal! 👋
 
-Welcome to my GitHub profile! I am a passionate **B.Tech 3rd-year student in Computer Science and Engineering (AI & ML)** at the Meerut Institute of Engineering and Technology, graduating in 2026. I aim to become a skilled **software engineer**, with expertise in backend development and an interest in machine learning and AI-driven projects.
+Welcome to my GitHub profile! I am a passionate **B.Tech Final year student in Computer Science and Engineering (AI & ML)** at the Meerut Institute of Engineering and Technology, graduating in 2026. I aim to become a skilled **software engineer**, with expertise in backend development and an interest in machine learning and AI-driven projects.
 
 ---
 
