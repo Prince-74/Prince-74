@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Prince+Goyal;Software+Developer+%7C+AI%2FML+Engineer;MERN+Stack+%7C+LLM+Integration;B.Tech+CSE+%28AI%2FML%29+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi+my+name+is+Prince+Goyal!;Software+Developer+%7C+AI%2FML+Engineer;MERN+Stack+%7C+LLM+Integration;B.Tech+CSE+%28AI%2FML%29+Graduate" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -107,7 +107,7 @@ open_to     : SWE Roles | AI/ML Roles | Backend Roles | Full-Time | Internships
 
 <br/>
 
-> A production-grade, ML-integrated telemedicine web application built on the MERN stack, featuring automated OCR-based medical report processing, multi-role access control, and clinical decision support workflows. Exhibited at India AI Impact Summit 2026.
+> A production-grade, ML-integrated telemedicine web application built on the MERN stack, featuring automated OCR-based medical report processing, multi-role access control, and clinical decision support.
 
 | Attribute | Details |
 |:---|:---|
@@ -116,7 +116,7 @@ open_to     : SWE Roles | AI/ML Roles | Backend Roles | Full-Time | Internships
 | **Performance** | 60%+ reduction in report processing · 40% faster turnaround |
 | **Security** | JWT Authentication · Role-Based Access Control |
 | **Impact** | Exhibited at India AI Impact Summit 2026 · 500+ AI Professionals |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-1e1b4b?style=flat-square&logo=github)](https://github.com/Prince-74/AI-MED-Sheat-Sathi) [![Live](https://img.shields.io/badge/Live_Demo-6d28d9?style=flat-square&logo=vercel)](https://ai-med-theta.vercel.app) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-1e1b4b?style=flat-square&logo=github)](https://github.com/Prince-74/AI-MED-Sheat-Sathi) [![Live](https://img.shields.io/badge/Live_Demo-7c3aed?style=flat-square&logo=vercel)](https://ai-med-theta.vercel.app) |
 
 **Key Engineering Decisions:**
 - Architected an end-to-end OCR pipeline replacing fully manual medical report entry — reducing processing overhead by 60%+ across all user flows
@@ -131,7 +131,7 @@ open_to     : SWE Roles | AI/ML Roles | Backend Roles | Full-Time | Internships
 
 <br/>
 
-> A modular platform for building and deploying real-time voice AI agents using Gemini LLMs and LiveKit. Features RAG-based knowledge retrieval, prompt engineering optimization, and a reusable 3-layer backend architecture enabling rapid agent deployment.
+> A modular platform for building and deploying real-time voice AI agents using Gemini LLMs and LiveKit. Features RAG-based knowledge retrieval, prompt engineering optimization, and a reusable 3-layer architecture.
 
 | Attribute | Details |
 |:---|:---|
@@ -140,7 +140,7 @@ open_to     : SWE Roles | AI/ML Roles | Backend Roles | Full-Time | Internships
 | **Performance** | Sub-2s End-to-End Inference Latency · 70% Faster Per-Agent Build |
 | **Security** | Session State Management · Input Validation Middleware |
 | **Impact** | Rapid Multi-Agent Deployment via Reusable Backend Modules |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-1e1b4b?style=flat-square&logo=github)](https://github.com/Prince-74/Murf-ai-agent) [![Demo](https://img.shields.io/badge/Video_Demo-6d28d9?style=flat-square&logo=linkedin)](https://www.linkedin.com/posts/prince-goyal-130631266_murfaivoiceagentschallenge-10daysofaivoiceagents-activity-7400217757491003392-aO2p) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-1e1b4b?style=flat-square&logo=github)](https://github.com/Prince-74/Murf-ai-agent) [![Demo](https://img.shields.io/badge/Video_Demo-7c3aed?style=flat-square&logo=youtube)](https://github.com/Prince-74/Murf-ai-agent) |
 
 **Key Engineering Decisions:**
 - Integrated Gemini LLMs with LiveKit Agents to build speech-to-response pipelines achieving sub-2s latency across all 10+ agents
