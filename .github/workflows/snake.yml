@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-  workflow_dispatch:  # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -14,8 +14,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Build & Push Snake Animation
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -30,29 +29,28 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Setup Git
+      - name: Setup Git config
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
-      - name: Create output branch if needed
+      - name: Create and switch to output branch
         run: |
-          if ! git rev-parse --verify output 2>/dev/null; then
-            git checkout --orphan output
-            git rm -rf .
+          git fetch origin
+          git checkout -b output origin/output 2>/dev/null || git checkout --orphan output
+          if [ -z "$(git ls-files)" ]; then
             touch .gitkeep
             git add .gitkeep
-            git commit -m "Initial commit for output branch"
+            git commit -m "Initial commit"
           fi
 
-      - name: Switch to output branch and commit
+      - name: Copy and commit snake animation
         run: |
-          git checkout output
           mkdir -p .
           cp dist/github-contribution-grid-snake-dark.svg github-contribution-grid-snake-dark.svg
           cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake*.svg
-          git commit -m "Update snake animation" || echo "No changes to commit"
+          git commit -m "Update snake animation" || echo "No changes"
           git push -u origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
