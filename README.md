@@ -220,7 +220,7 @@ open_to     : SWE Roles | AI/ML Roles | Backend Roles | Full-Time | Internships
 
 <br/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Prince-74&theme=onestar&no-frame=true&column=7&margin-w=8&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews)](https://github.com/Prince-74)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prince-74&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
